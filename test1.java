@@ -3,6 +3,8 @@ class test1{
         System.out.println("Test run successfully");
 
         System.out.println("New line added");
+
+        System.out.println("Another line added");
     }
     
 }
